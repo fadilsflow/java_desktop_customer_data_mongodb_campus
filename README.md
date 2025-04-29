@@ -5,9 +5,11 @@ A lightweight Java desktop application to manage customer data using MongoDB as 
 Screenshots
 
 Application Interface:
+
 <img src="img/img1.png" alt="App UI" width="400"/>
 
 Data View in MongoDB Compass:
+
 <img src="img/img2.png" alt="MongoDB Data" width="400"/>
 
 
